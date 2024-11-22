@@ -1,0 +1,66 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.container{
+    width: 90%;
+    margin: auto;
+}
+.contact{
+    background-color:#592512 ;
+    padding: 12px 0;
+    text-transform: capitalize;
+    /* color: white; */
+}
+.space{
+background-color: #8e7754;
+width: 95%;
+padding: 30px;
+}
+h1{
+    text-align: center;
+    margin: 12px 0;
+}
+.form{
+    float: left;
+    width: 60%;
+  
+}
+input ,button,textarea{
+    display: block;
+    padding: 12px;
+    width: 50%;
+    margin: 10px;
+    border: 0;
+    border-radius: 10px;
+    background-color: #cebc9a;
+}
+button{
+    width: 30%;
+    margin-left: 80px;
+    background-color: #592512;
+    color: white;
+}
+.half-width{
+    width: 21%;
+    display: inline;
+}
+.content{
+    float: right;
+    width: 40%;
+}
+.content h2{
+    margin: 15px 0;
+}
+.content span{
+    color: #592512;
+}
+.content ul {
+    margin-top: 20px;
+}
+.content ul li{
+    margin-top: 12px;
+}
+.clear{
+    clear: both;
+}
